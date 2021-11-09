@@ -8,5 +8,9 @@ File save&PlottingModel.py contains the code of how to save and plot the models 
 </div>
 
 The output of this project was in the picture 1.1 and 1.2.
-![Picture 1.1](https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G1%2C%20G3).png)
-![Picture 1.2](https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G2%2C%20G3).png)
+<p align="center" width="100%">
+    <img src="https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G1%2C%20G3).png">
+</p>
+<p align="center" width="100%">
+    <img src="https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G2%2C%20G3).png">
+</p>
