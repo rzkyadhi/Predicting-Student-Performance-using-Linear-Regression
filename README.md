@@ -12,5 +12,11 @@ The output of this project was in the picture 1.1 and 1.2.
     <img src="https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G1%2C%20G3).png">
 </p>
 <p align="center" width="100%">
+    *Picture 1.1 Result of Linear Regression (G1, G3)*
+</p>
+<p align="center" width="100%">
     <img src="https://github.com/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression/blob/main/Output(G2%2C%20G3).png">
+</p>
+<p align="center" width="100%">
+    *Picture 1.2 Result of Linear Regression (G2, G3)*
 </p>
