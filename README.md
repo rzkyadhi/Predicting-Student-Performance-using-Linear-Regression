@@ -1,5 +1,6 @@
 # Predicting-Student-Performance-using-Linear-Regression
 
+![GitHub last commit](https://img.shields.io/github/last-commit/rzkyadhi/Predicting-Student-Performance-using-Linear-Regression)
 <div style="text-align: justify">
 The dataset used for this personal project is Student Performance Dataset from UCI Machine Learning Repository
 File main.py contains the code that used for doing the prediction of student final grade or "G3" using Linear Regression Method
